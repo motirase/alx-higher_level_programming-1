@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 1-square.py
-# wakjira Bekele <wakjirabekele2018@gmail.com>
+# Megersa Oljira <motirase2020@gmail.com>
 """Define a class Square."""
 
 
