@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-base_geometry.py
-# wakjira Bekele<wakjirabekele2018@gmail.com>
+
 """Defines a base geometry class BaseGeometry."""
 
 
